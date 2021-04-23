@@ -1,0 +1,44 @@
+[
+  {
+    "comment": "A good book but definitely I don't like many parts of the plot",
+    "rate": 2,
+    "productId": "2b300c91-0007-4082-b3a2-07d3027427d5",
+    "_id": "6d957a8e-9e4b-42b0-9983-7e868f916990",
+    "createdAt": "2021-04-19T12:14:04.314Z"
+  },
+  {
+    "comment": "One of the best movies I've ever seen",
+    "rate": 5,
+    "productId": "2b300c91-0007-4082-b3a2-07d3027427d5",
+    "_id": "84ea9dbc-7ac0-4165-a941-66709f9d4b40",
+    "createdAt": "2021-04-19T13:16:57.087Z"
+  },
+  {
+    "comment": "Stunning",
+    "rate": 5,
+    "productId": "2b300c91-0007-4082-b3a2-07d3027427d5",
+    "_id": "8fd672d6-cd18-4592-aa7a-73fd5d30c384",
+    "createdAt": "2021-04-19T13:17:49.260Z"
+  },
+  {
+    "comment": "Great Movie",
+    "rate": 4,
+    "productId": "2b300c91-0007-4082-b3a2-07d3027427d5",
+    "_id": "a1a34e06-8cc6-47c4-85f7-7b405dc8284a",
+    "createdAt": "2021-04-19T13:18:40.005Z"
+  },
+  {
+    "comment": "Left a lot to be desired",
+    "rate": 2,
+    "productId": "b0048684-9eed-4a79-b4f1-a986b5d9a390",
+    "_id": "f8cf7896-d722-437e-b766-151f64d57059",
+    "createdAt": "2021-04-19T13:19:45.615Z"
+  },
+  {
+    "comment": "Missing star quality",
+    "rate": 3,
+    "productId": "b0048684-9eed-4a79-b4f1-a986b5d9a390",
+    "_id": "abd6f9e0-2712-453c-8cb1-b81eb679e57d",
+    "createdAt": "2021-04-19T13:19:58.799Z"
+  }
+]
